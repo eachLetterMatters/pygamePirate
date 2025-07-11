@@ -5,7 +5,7 @@ WINDOW_WIDTH, WINDOW_HEIGHT = 1280, 720
 TILE_SIZE = 64
 ANIMATION_SPEED = 6
 
-# layers 
+# layers - order in which they are drawn
 Z_LAYERS = {
 	'bg': 0,
 	'clouds': 1,
